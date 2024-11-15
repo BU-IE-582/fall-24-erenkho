@@ -2,9 +2,9 @@
 
 * [link to my journal](https://bu-ie-582.github.io/fall-24-erenkho/): This is the link you need to provide for HW0.
 
-* [HW1](https://bu-ie-582.github.io/fall-24-erenkho/files/pca.ipynb)
+* [HW1](https://bu-ie-582.github.io/fall-24-erenkho/pca.ipynb)
 
-* [HW1 (Report and Findings)](https://bu-ie-582.github.io/fall-24-erenkho/files/pca_report_findings.html)
+* [HW1 (Report and Findings)](https://bu-ie-582.github.io/fall-24-erenkho/pca_report_findings.html)
 
 
 
