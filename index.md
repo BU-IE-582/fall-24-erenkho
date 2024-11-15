@@ -1,5 +1,16 @@
 ## Welcome to My GitHub Page 
 
+[link to my journal](https://bu-ie-582.github.io/fall-24-erenkho/): This is the link you need to provide for HW0.
+
+[HW1 (Report and Findings)](https://BU-IE-582.github.io/fall-24-erenkho/files/pca_hw1.html)
+[HW1](https://BU-IE-582.github.io/fall-24-erenkho/files/pca.ipynb)
+
+
+
+
+
+
+
 ## How to add Links of files to Your Github Repository:
 
 Check [my repository](https://github.com/BU-IE-582/fall-24-abdullahkayacan-boun) to see the folder names and the uploaded files. Click index.md file, "[Raw](https://raw.githubusercontent.com/BU-IE-582/fall-24-abdullahkayacan-boun/main/index.md)" button will lead you to the script for this page. 
@@ -27,6 +38,6 @@ Please check the links by clicking on them.
 
 You don't need to link your source codes unless asked. Your code should be visible in your .html files already. 
 
+https://BU-IE-582/fall-24-erenkho/blob/main/pca_hw1.html
 
 
-[link to my journal](https://bu-ie-582.github.io/fall-24-erenkho/): This is the link you need to provide for HW0.
